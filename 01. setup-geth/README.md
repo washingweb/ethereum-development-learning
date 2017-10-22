@@ -16,3 +16,5 @@ geth --datadir=~/.ethereum/net102216 init genesis102216.json
 geth --datadir=~/.ethereum/net102216 --networkid 102216
 ```
 
+## reference
+[Private network](https://github.com/ethereum/go-ethereum/wiki/Private-network)
